@@ -2,3 +2,4 @@
 
 Construct an algorithm for the closest pairs of points in P. The algorithm inputs are P and m. 
 Return the distances between the m closest pairs of points, including their x and y coordinates.
+Perform tests to measure the asymptotic behavior of the program
