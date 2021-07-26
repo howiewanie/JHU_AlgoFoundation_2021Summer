@@ -1,3 +1,3 @@
-# JHU_AlgoFoundation_2021Summer
+# Programming Assignment 2
 
-Selected code for assignments from Foundation of Algorithm as part of my courses from JHU MS in CS
+Design an algorithm that generates a recursion tree based on various recursion tree rules
