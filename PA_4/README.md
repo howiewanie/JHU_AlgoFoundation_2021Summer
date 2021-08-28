@@ -1,3 +1,3 @@
-# JHU_AlgoFoundation_2021Summer
+# PA_4
 
-Selected code for assignments from Foundation of Algorithm as part of my courses from JHU MS in CS
+Create an algorithm to decipher one long string of dummy variables with two substrings, attempt is not excatly successful
